@@ -69,13 +69,13 @@ public class SwaggerConfig {
 
 //    private ApiInfo getApiInfo() {
 //
-//        String title = "PmangAd Sampme Microservice API Documentation";
+//        String title = " API Documentation";
 //        String desc = "";
 //        String version = "1.0.0";
-//        String termsOfServiceUrl = "http://www.neowizplaystudio.co.kr";
-//        String license = "Neowiz Play Studio";
-//        String licenseUrl = "http://www.neowizplaystudio.co.kr";
-//        Contact contact = new Contact("PmangAd Developers", "http://www.neowizplaystudio.co.kr", "nw_003803_153@neowiz.com");
+//        String termsOfServiceUrl = "http://www.nmj.co.kr";
+//        String license = "nmj";
+//        String licenseUrl = "http://www.nmj.co.kr";
+//        Contact contact = new Contact("Developers", "http://www.nmj.co.kr", "email");
 //        ApiInfo apiInfo = new ApiInfo(title, desc, version, termsOfServiceUrl, contact, license, licenseUrl);
 //
 //        return apiInfo;
